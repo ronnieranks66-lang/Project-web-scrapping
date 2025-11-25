@@ -1,0 +1,8 @@
+# Requirements inferred from `Notebooks/web_srapping.ipynb`
+# Install with: pip install -r requirements.txt
+
+requests
+beautifulsoup4
+pandas
+lxml
+notebook
